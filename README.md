@@ -1,8 +1,4 @@
-# dnthmn
-
-**`Full Stack Developer`**
-
-### Languages and Tools
+# Languages and Tools
 
 <img align="left" alt="JavaScript" width="36px" style="padding-right: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="36px" style="padding-right: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
