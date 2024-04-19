@@ -16,3 +16,10 @@
 <img align="left" alt="JetBrains" width="36px" style="padding-right: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="VSCode" width="36px" style="padding-right: 6px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
+
+##
+
+<details>
+  <summary>📊 Languages Stats</summary>
+  <img align="left" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&theme=dark&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420" />
+</details>
