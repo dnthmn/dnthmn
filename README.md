@@ -28,3 +28,8 @@
    <summary>📈 General Stats</summary>
   <img align="center" alt="general-stats" src="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&theme=dark&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos" />
 </details>
+
+<details>
+   <summary>🔥 Github Streak</summary>
+  <img align="center" alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&theme=dark&date_format=j%20M%5B%20Y%5D" />
+</details>
