@@ -21,5 +21,10 @@
 
 <details>
   <summary>📊 Languages Stats</summary>
-  <img align="left" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&theme=dark&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420" />
+  <img align="center" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&theme=dark&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420" />
+</details>
+
+<details>
+   <summary>📈 General Stats</summary>
+  <img align="center" alt="general-stats" src="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&theme=dark&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20my%20public%20repos" />
 </details>
