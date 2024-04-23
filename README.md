@@ -33,3 +33,9 @@
    <summary>🔥 Github Streak</summary>
   <img align="center" alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&theme=dark&date_format=j%20M%5B%20Y%5D" />
 </details>
+
+### Gists
+
+<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79">
+  <img align="center" alt="gist-adlists" src="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true&theme=dark" />
+</a>
