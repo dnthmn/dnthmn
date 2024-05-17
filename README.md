@@ -1,7 +1,5 @@
 <p align="right">
-  <a href="https://github.com/dnthmn">
-    <img alt="profile-views" src="https://komarev.com/ghpvc/?username=dnthmn&color=orange&style=for-the-badge&abbreviated=true&base=0"/>
-  </a>
+  <img alt="profile-views" src="https://komarev.com/ghpvc/?username=dnthmn&color=orange&style=for-the-badge&abbreviated=true&base=0" />
 </p>
 
 ## Languages and Tools
@@ -26,33 +24,51 @@
 
 <details>
   <summary>📊 Languages Stats</summary>
-  <a href="https://github.com/dnthmn">
-    <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&theme=dark&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420">
+      <img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnthmn&show_icons=true&locale=en&layout=compact&custom_title=Most%20used%20languages%20in%20my%20public%20repos&card_width=420" />
+    </picture>
   </a>
 </details>
 
 <details>
   <summary>📈 General Stats</summary>
-  <a href="https://github.com/dnthmn">
-    <img alt="general-stats" src="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&theme=dark&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos" />
+  <a href="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos">
+      <img alt="general-stats" src="https://github-readme-stats.vercel.app/api?username=dnthmn&locale=en&show_icons=true&rank_icon=github&custom_title=Github%20stats%20from%20public%20repos" />
+    </picture>
   </a>
 </details>
 
 <details>
   <summary>🔥 Github Streak</summary>
-  <a href="https://github.com/dnthmn">
-    <img alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&theme=dark&date_format=j%20M%5B%20Y%5D" />
+  <a href="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D">
+      <img alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D&theme=dark" />
+    </picture>
   </a>
 </details>
 
 ### Gists
 
 <a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79">
-  <img alt="gist-adlists" src="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true">
+    <img alt="gist-adlists" src="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true" />
+  </picture>
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
-  <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
+    <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</a>
