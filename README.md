@@ -50,7 +50,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D">
-      <img alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D&theme=dark" />
+      <img alt="github-streaks" src="https://streak-stats.demolab.com/?user=dnthmn&date_format=j%20M%5B%20Y%5D" />
     </picture>
   </a>
 </details>
