@@ -49,11 +49,3 @@
     <img alt="gist-adlists" src="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true" />
   </picture>
 </a>
-
-<a href="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg">
-    <img alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/dnthmn/dnthmn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</a>
