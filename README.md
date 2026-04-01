@@ -15,9 +15,3 @@
   <img alt="TailwindCSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Vue" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </p>
-
-### Gists
-
-<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79">
-  adlists
-</a>
