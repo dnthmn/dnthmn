@@ -18,10 +18,6 @@
 
 ### Gists
 
-<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true">
-    <img alt="gist-adlists" src="https://github-readme-stats.vercel.app/api/gist?id=b7b11eaeb67b0ab572ee5fac783f0a79&show_owner=true" />
-  </picture>
+<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79" target="_blank" rel="noopener noreferrer">
+  adlists
 </a>
