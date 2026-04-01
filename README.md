@@ -18,6 +18,6 @@
 
 ### Gists
 
-<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79" target="_blank" rel="noopener noreferrer">
+<a href="https://gist.github.com/dnthmn/b7b11eaeb67b0ab572ee5fac783f0a79">
   adlists
 </a>
